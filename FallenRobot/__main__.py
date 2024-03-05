@@ -96,7 +96,7 @@ buttons = [
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"https://t.me/PRADHAN_JII_PRIME"),
+        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"https://t.me/Star_Eye_Killer_Hunter"),
         
     ],
 ]
@@ -375,7 +375,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/PRADHAN_JII_PRIME"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/Star_Eye_Killer_Hunter"
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
@@ -405,7 +405,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/PRADHAN_JII_PRIME"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/Star_Eye_Killer_Hunter"
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
